@@ -1,5 +1,11 @@
 # OrbitModule
-This can help with rotating around an object
+This can help with rotating around an object. 
+
+Script:
+![IMAGE](https://cdn.discordapp.com/attachments/510573382623035408/1056592918460248114/image.png)
+
+Result:
+https://user-images.githubusercontent.com/82431866/209569700-5098a999-db32-4b37-af51-4cf1c1348e28.mp4
 
 # FUNCTIONS
 
