@@ -7,7 +7,7 @@ Script:
 
 Result:
 
-![VIDEO](https://user-images.githubusercontent.com/82431866/209569700-5098a999-db32-4b37-af51-4cf1c1348e28.mp4)
+[VIDEO](https://user-images.githubusercontent.com/82431866/209569700-5098a999-db32-4b37-af51-4cf1c1348e28.mp4)
 
 # FUNCTIONS
 
