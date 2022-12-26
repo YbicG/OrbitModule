@@ -4,9 +4,11 @@ This can help with rotating around an object.
 ## Scripts:
 
 Clockwise Script:
+
 ![image](https://user-images.githubusercontent.com/82431866/209570033-ea448203-e69a-49d8-be04-ef7edcad66bb.png)
 
 Counterclockwise Script:
+
 ![image](https://user-images.githubusercontent.com/82431866/209570104-ff57fd29-696e-45b0-a087-9b96a17c30f0.png)
 
 Result:
