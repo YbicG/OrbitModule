@@ -26,7 +26,7 @@ Result:
 	RotateAroundPos -> Position for Part to rotate around.
 	OrbitDirection -> Direction to rotate in. Valid Directions are "clockwise" and "counterclockwise".
 	isSpiraling -> If true move in a spiral.
-	SpiralWidth -> Width between spirals.w
+	SpiralWidth -> Width between spirals.
 		
 ## TriangularOrbit - Orbits a position in a triangular movement.
    #### PARAMETERS
