@@ -15,7 +15,7 @@ This can help with rotating around an object
 	SpiralWidth -> Width between spirals.w
 		
 ## TriangularOrbit - Orbits a position in a triangular movement.
-   ### PARAMETERS
+   #### PARAMETERS
 	Part -> Part to be rotated.
 	Time -> Time until completion.
 	Width -> Size to make the triangle. Roughly equivalent to a radius of a circle.
@@ -24,7 +24,7 @@ This can help with rotating around an object
 	OrbitDirection -> Direction to rotate in. Valid Directions are "clockwise" and "counterclockwise".
 		
 ## RectangularOrbit - Orbits a position in a rectangular movement.
-   ### PARAMETERS
+   #### PARAMETERS
 	Part -> Part to be rotated.
 	Time -> Time until completion.
 	Width -> Size to make the rectangle. Roughly equivalent to a radius of a circle.
@@ -33,7 +33,7 @@ This can help with rotating around an object
 	OrbitDirection -> Direction to rotate in. Valid Directions are "clockwise" and "counterclockwise".
 		
 ## SquareOrbit - Orbits a position in a square movement.
-   ### PARAMETERS
+   #### PARAMETERS
 	Part -> Part to be rotated.
 	Time -> Time until completion.
 	Width -> Size to make the square. Roughly equivalent to a radius of a circle.
